@@ -1,2 +1,30 @@
-# 7f696b9a-podcast-production-and-episode
-Complete Notion workspace for podcast producers managing episode production from ideation to publication. Includes an episode pipeline with recording status, editing checklist, and publication scheduler. Features a guest CRM with outreach history, recording notes, and follow-up tracker. Covers show notes generation template, RSS feed submission che
+# Podcast Production and Episode Tracker Notion Template
+
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/14A3cv6mX7EocVWavOcZb0y)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/14A3cv6mX7EocVWavOcZb0y)
+- [Buy on Whop](https://whop.com/podcast-production-and-episode-tracker-notion-template)
+
